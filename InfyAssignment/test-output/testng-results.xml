@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5593" started-at="2020-05-03T15:42:38 CDT" finished-at="2020-05-03T15:42:44 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5593" started-at="2020-05-03T15:42:38 CDT" finished-at="2020-05-03T15:42:44 CDT">
+      <class name="RestAssuredAPI.InfyAssignment.question9_getMethodValidation">
+        <test-method status="PASS" signature="validateStatusCode()[pri:1, instance:RestAssuredAPI.InfyAssignment.question9_getMethodValidation@7c29daf3]" name="validateStatusCode" duration-ms="3628" started-at="2020-05-03T15:42:38 CDT" finished-at="2020-05-03T15:42:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method status="PASS" signature="logResponseBody()[pri:2, instance:RestAssuredAPI.InfyAssignment.question9_getMethodValidation@7c29daf3]" name="logResponseBody" duration-ms="284" started-at="2020-05-03T15:42:42 CDT" finished-at="2020-05-03T15:42:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logResponseBody -->
+        <test-method status="PASS" signature="validateFirstName()[pri:3, instance:RestAssuredAPI.InfyAssignment.question9_getMethodValidation@7c29daf3]" name="validateFirstName" duration-ms="1281" started-at="2020-05-03T15:42:42 CDT" finished-at="2020-05-03T15:42:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstName -->
+        <test-method status="PASS" signature="validateHasStatusCode_Weekly()[pri:4, instance:RestAssuredAPI.InfyAssignment.question9_getMethodValidation@7c29daf3]" name="validateHasStatusCode_Weekly" duration-ms="173" started-at="2020-05-03T15:42:43 CDT" finished-at="2020-05-03T15:42:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHasStatusCode_Weekly -->
+        <test-method status="PASS" signature="validateHeader()[pri:5, instance:RestAssuredAPI.InfyAssignment.question9_getMethodValidation@7c29daf3]" name="validateHeader" duration-ms="142" started-at="2020-05-03T15:42:43 CDT" finished-at="2020-05-03T15:42:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeader -->
+      </class> <!-- RestAssuredAPI.InfyAssignment.question9_getMethodValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
